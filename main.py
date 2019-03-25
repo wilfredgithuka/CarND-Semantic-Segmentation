@@ -1,4 +1,4 @@
-mport os.path
+import os.path
 import tensorflow as tf
 import helper
 import warnings
